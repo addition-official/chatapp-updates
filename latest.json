@@ -1,4 +1,4 @@
 {
-  "latest_version": "1.0.0",
-  "installer_url": "https://example.com/ChatAppSetup_1.0.0.exe"
+  "latest_version": "1.0.1",
+  "exe_url": "https://github.com/addition-official/chatapp-updates/releases/download/v1.0.1/ChatAppNewest.exe"
 }
